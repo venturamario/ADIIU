@@ -25,9 +25,9 @@ Por ello, se ha añadido una línea de código comentada (LIMIT X;) para que, en
 2- Descargar y descomprimir el zip y obtener la carpeta con todos los documentos de la práctica incluyendo el dataset ya tratado.
 
 3- Ir a localhost/phpmyadmin y crear una nueva base de datos siguiendo los pasos detallados en el documento "database creation.txt". Estos pasos son:<br>
-  **- Paso 1:** Crear la nueva base de datos de nombre "spotify2023" (Step 1 en el documento).<br>
-  **- Paso 2:** Crear una tabla llamada "spotifyinfo" con las columnas necesarias para el dataset tratado (código de creación de la tabla detallado en el paso 2 del documento).<br>
-  **- Paso 3*:* Acceder a la tabla creada, ir apartado de SQL e importar los datos del documento .csv directamente en la base de datos mediante el código proporcionado (el paso 3 del documento "database creation.txt"), añadiendo un límite de filas a importar mediante la línea comentada, si así se desea.
+  &ensp;**Paso 1:** Crear la nueva base de datos de nombre "spotify2023" (Step 1 en el documento).<br>
+  &ensp;**- Paso 2:** Crear una tabla llamada "spotifyinfo" con las columnas necesarias para el dataset tratado (código de creación de la tabla detallado en el paso 2 del documento).<br>
+  &ensp;**- Paso 3:** Acceder a la tabla creada, ir apartado de SQL e importar los datos del documento .csv directamente en la base de datos mediante el código proporcionado (el paso 3 del documento "database creation.txt"), añadiendo un límite de filas a importar mediante la línea comentada, si así se desea.
 
 4- Mover o copiar la carpeta "adiu-p1" obtenida al hacer el paso 1 en C:/xampp/htdocs.
 
