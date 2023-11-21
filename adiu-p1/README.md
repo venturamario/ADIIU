@@ -1,8 +1,8 @@
 # ADIIU-P1
-Asignatura: ADIIU<br>
-Trabajo: Práctica 1<br>
-Autores: Mario Ventura Burgos & Luis Miguel Vargas Durán<br>
-Fecha: Noviembre 2023
+ASIGNATURA: ADIIU<br>
+TRABAJO: Práctica 1<br>
+AUTORES: Mario Ventura Burgos & Luis Miguel Vargas Durán<br>
+FECHA: Noviembre 2023
 
 # Observaciones
 1- Todo el código y todas las funcionalidades han sido probadas en diferentes dispositivos y se ha comprobado el correcto funcionamiento en todos ellos.
