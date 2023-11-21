@@ -1,4 +1,5 @@
 # ADIIU-P1
+Estudios: Grado en Ingeniería Informática (GIN3)
 Asignatura: ADIIU<br>
 Trabajo: Práctica 1<br>
 Autores: Mario Ventura Burgos & Luis Miguel Vargas Durán<br>
