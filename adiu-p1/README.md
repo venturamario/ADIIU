@@ -23,7 +23,7 @@ Por ello, se ha añadido una línea de código comentada (LIMIT X;) para que, en
 # Tutorial
 1- Abrir XAMPP e iniciar Apache y MySQL.
 
-2- Descargar y descomprimir el zip y obtener la carpeta con todos los documentos de la práctica incluyendo el dataset ya tratado.
+2- Descargar y descomprimir el zip y obtener la carpeta con todos los documentos de la práctica incluyendo los enlaces al dataset original y al dataset ya tratado que se ha utilizado.
 
 3- Ir a localhost/phpmyadmin y crear una nueva base de datos siguiendo los pasos detallados en el documento "database creation.txt". Estos pasos son:
 
@@ -31,8 +31,10 @@ Por ello, se ha añadido una línea de código comentada (LIMIT X;) para que, en
   
   &ensp;&ensp;**Paso 2:** Crear una tabla llamada "spotifyinfo" con las columnas necesarias para el dataset tratado (código de creación de la tabla detallado en el paso 2 del documento).
   
-  &ensp;&ensp;**Paso 3:** Acceder a la tabla creada, ir apartado de SQL e importar los datos del documento .csv directamente en la base de datos mediante el código proporcionado (el paso 3 del documento "database creation.txt"), añadiendo un límite de filas a importar mediante la línea comentada, si así se desea.
+  &ensp;&ensp;**Paso 3:** Acceder a la tabla creada, ir apartado de SQL e importar los datos del documento .csv directamente en la base de datos mediante el código proporcionado (el paso 3 del documento "database creation.txt"), añadiendo, si así se desea, un límite de filas a importar mediante la línea comentada.
 
 4- Mover o copiar la carpeta "adiu-p1" obtenida al hacer el paso 1 en C:/xampp/htdocs.
 
-5- Buscar en cualquier navegador: http://localhost/adiu-p1/
+5- Buscar en cualquier navegador (se recomienda Chrome o Opera): http://localhost/adiu-p1/
+
+En este punto ya se estará viendo la aplicación distribuida desarrollada :)
